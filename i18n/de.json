@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "signup": {
+      "title": "MELDE DICH HEUTE AN",
+      "description": "Die weltweit {schnellste} Krypto-Web-App",
+      "fastest": "am schnellsten wachsende"
+    },
+    "buy_sell": {
+      "title": "Kaufe und verkaufe 200+ Kryptowährungen mit 20+ Fiat-Währungen über Banküberweisungen oder deine Kredit-/Debitkarte.",
+      "cta": "Loslegen",
+      "cta_link": "App herunterladen"
+    },
+    "statistics": {
+      "trending": "🔥 Im Trend",
+      "top_gainers": "🚀 Top-Gewinner",
+      "recently_added": "💎 Kürzlich hinzugefügt"
+    },
+    "buy_trade": {
+      "title": "Kaufe und handle auf der {br} originalen Krypto-Börse.",
+      "cta": "Jetzt kaufen",
+      "bonus_offer": "Kaufe jetzt und erhalte 40% extra Bonus Mindestvorverkaufsbetrag 25 Crypto Coin.",
+      "accepted_currencies": "Wir akzeptieren BTC-Kryptowährung",
+      "amount": "Menge",
+      "get": "Erhalten"
+    },
+    "partners": {
+      "title": "Vertrauenswürdige Partner weltweit",
+      "description": "Wir sind Partner von unzähligen großen Organisationen auf der ganzen Welt"
+    },
+    "credit_card": {
+      "title": "Einführung der {NEFA} Kreditkarte",
+      "description": "Karteninhaber- und Prämienbedingungen, die bei der Anwendung verfügbar sein werden.",
+      "perks": {
+        "purchases": "Bis zu 3% zurück bei Einkäufen",
+        "earn_rewards": "Verdienen Sie Belohnungen in Bitcoin oder jeder Krypto auf NEFA",
+        "annual_fee": "Keine Jahresgebühr"
+      },
+      "cta": "Warteliste beitreten"
+    },
+    "trading_tools": {
+      "title": "Erweiterte Handelswerkzeuge",
+      "tools": "Werkzeuge",
+      "features": {
+        "professional_access": {
+          "title": "Professioneller Zugang, rund um die Uhr verfügbar",
+          "description": "Wir bieten Premium-Zugang zum Krypto-Handel für Einzelpersonen und Institutionen durch hohe Liquidität, zuverlässige Auftragsausführung und konstante Betriebszeit."
+        },
+        "api": {
+          "title": "Eine Reihe leistungsstarker APIs",
+          "description": "Richten Sie Ihre eigene Handelsschnittstelle ein oder implementieren Sie Ihre algorithmische Strategie mit unseren leistungsstarken FIX- und HTTP-APIs. Verbinden Sie sich mit unserem WebSocket für Echtzeit-Datenstreaming."
+        },
+        "support": {
+          "title": "Kundensupport",
+          "description": "Premium-24/7-Support für alle Kunden weltweit per Telefon oder E-Mail. Persönliche Kontomanager für Partner."
+        }
+      },
+      "cta": "Loslegen",
+      "learn_more": "Erfahren Sie mehr"
+    },
+    "security": {
+      "title": "Branchenführende Sicherheit von Anfang an",
+      "safety": {
+        "title": "Sicherheit, Schutz und Einhaltung",
+        "description": "NEFA ist ein lizenziertes New Yorker Treuhandunternehmen, das regelmäßigen Bankprüfungen unterzogen wird und den Cybersicherheitsprüfungen unterliegt, die von der New Yorker Finanzdienstleistungsbehörde durchgeführt werden. Erfahren Sie mehr über unser Engagement für Sicherheit."
+      },
+      "keys": {
+        "title": "Hardware-Sicherheitsschlüssel",
+        "description": "Mit NEFA können Sie Ihr Konto mit einem Hardware-Sicherheitsschlüssel über WebAuthn sichern."
+      },
+      "certifications": {
+        "title": "SOC-Zertifizierungen",
+        "description": "NEFA ist SOC 1 Typ 2 und SOC 2 Typ 2 konform. Wir sind die weltweit erste Kryptowährungsbörse und Treuhänder, die diese Prüfungen abgeschlossen hat."
+      }
+    },
+    "get_started": {
+      "title": "In nur wenigen Minuten loslegen",
+      "steps": {
+        "sign_up": {
+          "title": "Anmelden",
+          "description": "Melden Sie sich für Ihre kostenlose NEFA Wallet auf Web, iOS oder Android an und folgen Sie unserem einfachen Prozess, um Ihr Profil einzurichten"
+        },
+        "fund": {
+          "title": "Finanzierung",
+          "description": "Wählen Sie Ihre bevorzugte Zahlungsmethode wie Banküberweisung oder Kreditkarte, um Ihre NEFA Wallet aufzuladen"
+        },
+        "buy_crypto": {
+          "title": "Krypto kaufen",
+          "description": "Kaufen Sie Bitcoin oder Ethereum und speichern Sie es sicher in Ihrer Wallet oder senden Sie es einfach an Ihre Freunde überall hin"
+        }
+      }
+    },
+    "support": {
+      "title": "Unterstützung",
+      "faq": "Häufig gestellte Fragen",
+      "questions": {
+        "1": {
+          "question": "Warum sollte ich NEFA wählen?",
+          "answer": "Wir sind Branchenpioniere und seit 2016 in der Kryptowährungsbranche tätig. Wir haben auf unserer Börse Transaktionen im Wert von mehr als 21 Milliarden USD für Kunden in über 40 Ländern abgewickelt. Heute vertrauen uns weltweit über 8 Millionen Kunden und haben Lob für unsere benutzerfreundliche App, sichere Wallet und unser Funktionsangebot erhalten."
+        },
+        "2": {
+          "question": "Wie sicher ist NEFA?",
+          "answer": "Wir sind Branchenpioniere und seit 2016 in der Kryptowährungsbranche tätig. Wir haben auf unserer Börse Transaktionen im Wert von mehr als 21 Milliarden USD für Kunden in über 40 Ländern abgewickelt. Heute vertrauen uns weltweit über 8 Millionen Kunden und haben Lob für unsere benutzerfreundliche App, sichere Wallet und unser Funktionsangebot erhalten."
+        },
+        "3": {
+          "question": "Muss ich einen ganzen Bitcoin kaufen?",
+          "answer": "Wir sind Branchenpioniere und seit 2016 in der Kryptowährungsbranche tätig. Wir haben auf unserer Börse Transaktionen im Wert von mehr als 21 Milliarden USD für Kunden in über 40 Ländern abgewickelt. Heute vertrauen uns weltweit über 8 Millionen Kunden und haben Lob für unsere benutzerfreundliche App, sichere Wallet und unser Funktionsangebot erhalten."
+        },
+        "4": {
+          "question": "Wie kaufe ich tatsächlich Bitcoin?",
+          "answer": "Wir sind Branchenpioniere und seit 2016 in der Kryptowährungsbranche tätig. Wir haben auf unserer Börse Transaktionen im Wert von mehr als 21 Milliarden USD für Kunden in über 40 Ländern abgewickelt. Heute vertrauen uns weltweit über 8 Millionen Kunden und haben Lob für unsere benutzerfreundliche App, sichere Wallet und unser Funktionsangebot erhalten."
+        }
+      }
+    }
+  },
+  "headers": {
+    "rank": "Rang",
+    "name": "Name",
+    "price": "Preis",
+    "market_cap": "Marktkapitalisierung",
+    "vwap": "VWAP (24 Std.)",
+    "supply": "Angebot",
+    "volume": "Volumen (24 Std.)",
+    "change_24h": "Änderung (24 Std.)",
+    "more": "Mehr",
+    "trading_pairs": "Handelspaare",
+    "total": "Gesamt",
+    "status": "Status",
+    "exchange": "Börse",
+    "pair": "Paar",
+    "high": "Hoch",
+    "low": "Tief",
+    "average": "Durchschnitt",
+    "change": "Änderung"
+  },
+  "navigation_links": {
+    "cryptocurrency": "Kryptowährung",
+    "assets": "Münzen",
+    "exchanges": "Börsen",
+    "watchlist": "Beobachtungsliste",
+    "portfolio": "Portfolio",
+    "nft": "NFT",
+    "products": "Produkte",
+    "about_us": "Über uns",
+    "careers": "Karriere",
+    "blog": "Blog",
+    "security": "Sicherheit",
+    "help_center": "Hilfe-Center",
+    "contact_us": "Kontaktiere uns",
+    "system_status": "Systemstatus",
+    "area_of_availability": "Verfügbarkeitsbereich",
+    "privacy_policy": "Datenschutz-Bestimmungen",
+    "newsletter": "Newsletter",
+    "login": "Anmeldung",
+    "sign_up": "Anmelden"
+  },
+  "footer_information": {
+    "copyright": "© Copyright {date} NEFA LLC. Alle Rechte vorbehalten",
+    "mobile_notification": "Verpassen Sie nie etwas Krypto, {br} wenn Sie unterwegs sind"
+  },
+  "back_to_top": "Zurück nach oben",
+  "load_more": "Mehr laden"
+}

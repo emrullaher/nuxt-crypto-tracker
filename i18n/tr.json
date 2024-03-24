@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "signup": {
+      "title": "BUGÜN KAYDOLUN",
+      "description": "Dünyanın {fastest} Kripto Web Uygulaması",
+      "fastest": "En Hızlı Büyüyen"
+    },
+    "buy_sell": {
+      "title": "20'den fazla düz para birimi kullanarak 200'den fazla kripto para birimini banka transferleri veya kredi/debit kartınızla alıp satın.",
+      "cta": "Başlayın",
+      "cta_link": "Uygulamayı İndir"
+    },
+    "statistics": {
+      "trending": "🔥 Trendler",
+      "top_gainers": "🚀 En Çok Kazananlar",
+      "recently_added": "💎 Yeni Eklenenler"
+    },
+    "buy_trade": {
+      "title": "Orijinal kripto borsasında {br} alım satım yapın.",
+      "cta": "Şimdi Satın Al",
+      "bonus_offer": "Şimdi satın alın ve %40 ekstra bonus kazanın Minimum ön satış miktarı 25 Crypto Coin.",
+      "accepted_currencies": "BTC kripto para birimlerini kabul ediyoruz",
+      "amount": "Adet",
+      "get": "Al"
+    },
+    "partners": {
+      "title": "Dünya Çapında Güvenilir Ortaklar",
+      "description": "Dünya çapında birçok büyük kuruluşla ortaklık yapıyoruz"
+    },
+    "credit_card": {
+      "title": "{NEFA} Kredi Kartı Tanıtımı",
+      "description": "Başvuruda mevcut olacak kart sahibi ve ödül koşullarına tabidir.",
+      "perks": {
+        "purchases": "Alışverişlerde %3'e kadar geri ödeme",
+        "earn_rewards": "NEFA'da bitcoin veya herhangi bir kripto para biriminde ödül kazanın",
+        "annual_fee": "Yıllık ücret yok"
+      },
+      "cta": "Bekleme listesine katıl"
+    },
+    "trading_tools": {
+      "title": "Gelişmiş Ticaret {tools}",
+      "tools": "Araçları",
+      "features": {
+        "professional_access": {
+          "title": "Profesyonel Erişim, Kesintisiz Kullanılabilirlik",
+          "description": "Yüksek likidite, güvenilir emir yürütme ve sürekli çalışma süresi ile hem bireylere hem de kurumlara kripto ticareti için premium erişim sağlıyoruz."
+        },
+        "api": {
+          "title": "Güçlü API'ların Çeşitliliği",
+          "description": "Kendi ticaret arayüzünüzü kurun veya yüksek performanslı FIX ve HTTP API'larımızla algoritmik stratejinizi uygulayın. Gerçek zamanlı veri akışı için WebSocket'imize bağlanın."
+        },
+        "support": {
+          "title": "Müşteri Desteği",
+          "description": "Dünya çapındaki tüm müşteriler için telefon veya e-posta yoluyla ulaşılabilir 24/7 premium destek. Ortaklar için ayrılmış hesap yöneticileri."
+        }
+      },
+      "cta": "Başlayın",
+      "learn_more": "Daha Fazla Bilgi"
+    },
+    "security": {
+      "title": "Güvenlik",
+      "safety": {
+        "title": "Güvenlik, güvenlik ve uyumluluk",
+        "description": "NEFA, düzenli banka denetimlerine tabi olan ve New York Finansal Hizmetler Departmanı tarafından gerçekleştirilen siber güvenlik denetimlerine tabi olan lisanslı bir New York güvenlik şirketidir. Güvenliğe olan bağlılığımız hakkında daha fazla bilgi edinin."
+      },
+      "keys": {
+        "title": "Donanım güvenlik anahtarları",
+        "description": "NEFA ile WebAuthn aracılığıyla donanım güvenlik anahtarı ile hesabınızı güvence altına alabilirsiniz."
+      },
+      "certifications": {
+        "title": "SOC Sertifikaları",
+        "description": "NEFA, SOC 1 Tip 2 ve SOC 2 Tip 2 uyumludur. Bu sınavları tamamlayan dünyanın ilk kripto para birimi borsası ve koruyucusuyuz."
+      }
+    },
+    "get_started": {
+      "title": "Sadece birkaç dakikada başlayın",
+      "steps": {
+        "sign_up": {
+          "title": "Kaydol",
+          "description": "Web, iOS veya Android'de ücretsiz NEFA Cüzdanınızı oluşturun ve profilinizi oluşturmak için kolay adımlarımızı izleyin"
+        },
+        "fund": {
+          "title": "Fon",
+          "description": "Banka havalesi veya kredi kartı gibi tercih ettiğiniz ödeme yöntemini seçerek NEFA Cüzdanınızı doldurun"
+        },
+        "buy_crypto": {
+          "title": "Kripto Satın Al",
+          "description": "Bitcoin veya Ethereum satın alın, ardından güvenli bir şekilde Cüzdanınızda saklayın veya arkadaşlarınıza herhangi bir yerden kolayca gönderin"
+        }
+      }
+    },
+    "support": {
+      "title": "Destek",
+      "faq": "Sıkça Sorulan Sorular",
+      "questions": {
+        "1": {
+          "question": "Neden NEFA'yı seçmeliyim?",
+          "answer": "2016 yılından bu yana kripto para birimi sektöründe faaliyet gösteren endüstri liderleriyiz. Dünya çapında 40'tan fazla ülkedeki müşterilerimiz için borsamızda 21 milyar USD'den fazla işlem gerçekleştirdik. Bugün dünya çapında 8 milyondan fazla müşteri tarafından güvenilen ve kullanımı kolay uygulamamız, güvenli cüzdanımız ve sunduğumuz özelliklerle övgü topluyoruz."
+        },
+        "2": {
+          "question": "NEFA ne kadar güvenli?",
+          "answer": "2016 yılından bu yana kripto para birimi sektöründe faaliyet gösteren endüstri liderleriyiz. Dünya çapında 40'tan fazla ülkedeki müşterilerimiz için borsamızda 21 milyar USD'den fazla işlem gerçekleştirdik. Bugün dünya çapında 8 milyondan fazla müşteri tarafından güvenilen ve kullanımı kolay uygulamamız, güvenli cüzdanımız ve sunduğumuz özelliklerle övgü topluyoruz."
+        },
+        "3": {
+          "question": "Bir Bitcoin almak zorunda mıyım?",
+          "answer": "2016 yılından bu yana kripto para birimi sektöründe faaliyet gösteren endüstri liderleriyiz. Dünya çapında 40'tan fazla ülkedeki müşterilerimiz için borsamızda 21 milyar USD'den fazla işlem gerçekleştirdik. Bugün dünya çapında 8 milyondan fazla müşteri tarafından güvenilen ve kullanımı kolay uygulamamız, güvenli cüzdanımız ve sunduğumuz özelliklerle övgü topluyoruz."
+        },
+        "4": {
+          "question": "Bitcoin nasıl alınır?",
+          "answer": "2016 yılından bu yana kripto para birimi sektöründe faaliyet gösteren endüstri liderleriyiz. Dünya çapında 40'tan fazla ülkedeki müşterilerimiz için borsamızda 21 milyar USD'den fazla işlem gerçekleştirdik. Bugün dünya çapında 8 milyondan fazla müşteri tarafından güvenilen ve kullanımı kolay uygulamamız, güvenli cüzdanımız ve sunduğumuz özelliklerle övgü topluyoruz."
+        }
+      }
+    }
+  },
+  "headers": {
+    "rank": "Sıra",
+    "name": "İsim",
+    "price": "Fiyat",
+    "market_cap": "Piyasa Değeri",
+    "vwap": "VWAP (24S)",
+    "supply": "Arz",
+    "volume": "Hacim (24S)",
+    "change": "Değişim",
+    "more": "Daha Fazla",
+    "trading_pairs": "Ticaret Çiftleri",
+    "total": "Toplam",
+    "status": "Durum",
+    "exchange": "Borsa",
+    "pair": "Çift",
+    "change_24h": "Değişim (24Hr)",
+    "high": "Yüksek",
+    "low": "Düşük",
+    "average": "Ortalama"
+  },
+  "navigation_links": {
+    "cryptocurrency": "Kripto Para",
+    "exchanges": "Borsalar",
+    "assets": "Kripto Paralar",
+    "watchlist": "İzleme Listesi",
+    "portfolio": "Portföy",
+    "nft": "NFT",
+    "products": "Ürünler",
+    "about_us": "Hakkımızda",
+    "careers": "Kariyer",
+    "blog": "Blog",
+    "security": "Güvenlik",
+    "help_center": "Yardım Merkezi",
+    "contact_us": "Bize Ulaşın",
+    "system_status": "Sistem Durumu",
+    "area_of_availability": "Kullanılabilirlik Alanı",
+    "privacy_policy": "Gizlilik Politikası",
+    "newsletter": "Bülten",
+    "login": "Giriş",
+    "sign_up": "Kayıt Ol"
+  },
+  "footer_information": {
+    "copyright": "© Tüm Hakları Saklıdır {date} NEFA LLC",
+    "mobile_notification": "Yoldayken kripto hakkında {br} hiçbir şeyi kaçırma"
+  },
+  "back_to_top": "Başa dön",
+  "load_more": "Daha Fazla Yükle"
+}

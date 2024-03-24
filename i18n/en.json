@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "signup": {
+      "title": "SIGN UP TODAY",
+      "description": "The World's {fastest} Crypto Web App",
+      "fastest": "Fastest Growing"
+    },
+    "buy_sell": {
+      "title": "Buy and sell 200+ cryptocurrencies with 20+ flat currencies using bank transfers or your credit/debit card.",
+      "cta": "Get Started",
+      "cta_link": "Download App"
+    },
+    "statistics": {
+      "trending": "🔥 Trending",
+      "top_gainers": "🚀 Top Gainers",
+      "recently_added": "💎 Recently Added"
+    },
+    "buy_trade": {
+      "title": "Buy & trade on the {br} original crypto exchange.",
+      "cta": "Buy Now",
+      "bonus_offer": "Buy now and get 40% extra bonus Minimum pre-sale amount 25 Crypto Coin.",
+      "accepted_currencies": "We accept BTC crypto-currency",
+      "amount": "Amount",
+      "get": "Get"
+    },
+    "partners": {
+      "title": "Trusted Partners Worldwide",
+      "description": "We're partners with countless major organisations around the globe"
+    },
+    "credit_card": {
+      "title": "Introducing the {NEFA} Credit Card",
+      "description": "Subject to cardholder and rewards terms which will be available at application.",
+      "perks": {
+        "purchases": "Up to 3% back on purchases",
+        "earn_rewards": "Earn rewards in bitcoin or any crypto on NEFA",
+        "annual_fee": "No annual fee"
+      },
+      "cta": "Join the waitlist"
+    },
+    "trading_tools": {
+      "title": "Advanced Trading {tools}",
+      "tools": "Tools",
+      "features": {
+        "professional_access": {
+          "title": "Professional Access, Non-stop Availability",
+          "description": "We provide premium access to crypto trading for both individuals and institutions through high liquidity, reliable order execution and constant uptime."
+        },
+        "api": {
+          "title": "A Range of Powerful APIs",
+          "description": " Set up your own trading interface or deploy your algorithmic strategy with our high-performance FIX and HTTP APIs. Connect to our WebSocket for real-time data streaming."
+        },
+        "support": {
+          "title": "Customer Support",
+          "description": " Premium 24/7 support available to all customers worldwide by phone or email. Dedicated account managers for partners."
+        }
+      },
+      "cta": "Get Started",
+      "learn_more": "Learn More"
+    },
+    "security": {
+      "title": "Industry-leading security from day one",
+      "safety": {
+        "title": "Safety, security and compliance",
+        "description": "NEFA is a licensed New York trust company that undergoes regular bank exams and is subject to the cybersecurity audits conducted by the New York Department of Financial Services. Learn more about our commitment to security."
+      },
+      "keys": {
+        "title": "Hardware security keys",
+        "description": "With NEFA you can secure your account with a hardware security key via WebAuthn."
+      },
+      "certifications": {
+        "title": "SOC Certifications",
+        "description": "NEFA is SOC 1 Type 2 and SOC 2 Type 2 compliant. We are the world’s first cryptocurrency exchange and custodian to complete these exams."
+      }
+    },
+    "get_started": {
+      "title": "Get started in just a few minutes",
+      "steps": {
+        "sign_up": {
+          "title": "Sign Up",
+          "description": "Sign up for your free NEFA Wallet on web, iOS or Android and follow our easy process to set up your profile"
+        },
+        "fund": {
+          "title": "Fund",
+          "description": "Choose your preferred payment method such as bank transfer or credit card to top up your NEFA Wallet"
+        },
+        "buy_crypto": {
+          "title": "Buy Crypto",
+          "description": "Buy Bitcoin or Ethereum, then securely store it in your Wallet or send it on easily to your friends anywhere"
+        }
+      }
+    },
+    "support": {
+      "title": "Support",
+      "faq": "Frequently asked questions",
+      "questions": {
+        "1": {
+          "question": "Why should I choose NEFA?",
+          "answer": "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over 8 million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features."
+        },
+        "2": {
+          "question": "How secure is NEFA?",
+          "answer": "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features."
+        },
+        "3": {
+          "question": "Do I have to buy a whole Bitcoin?",
+          "answer": "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features."
+        },
+        "4": {
+          "question": "How do I actually buy Bitcoin?",
+          "answer": "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features."
+        }
+      }
+    }
+  },
+  "headers": {
+    "rank": "Rank",
+    "name": "Name",
+    "price": "Price",
+    "market_cap": "Market Cap",
+    "vwap": "VWAP (24Hr)",
+    "supply": "Supply",
+    "volume": "Volume (24Hr)",
+    "change_24h": "Change (24Hr)",
+    "more": "More",
+    "trading_pairs": "Trading Pairs",
+    "total": "Total",
+    "status": "Status",
+    "exchange": "Exchange",
+    "pair": "Pair",
+    "high": "High",
+    "low": "Low",
+    "average": "Average",
+    "change": "Change"
+  },
+  "navigation_links": {
+    "cryptocurrency": "Cryptocurrency",
+    "assets": "Coins",
+    "exchanges": "Exchanges",
+    "watchlist": "Watchlist",
+    "portfolio": "Portfolio",
+    "nft": "NFT",
+    "products": "Products",
+    "about_us": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "security": "Security",
+    "help_center": "Help Center",
+    "contact_us": "Contact Us",
+    "system_status": "System Status",
+    "area_of_availability": "Area of Availability",
+    "privacy_policy": "Privacy Policy",
+    "newsletter": "Newsletter",
+    "login": "Login",
+    "sign_up": "Sign Up"
+  },
+  "footer_information": {
+    "copyright": "© Copyright {date} NEFA LLC. All rights reserved",
+    "mobile_notification": "Never miss anything crypto when {br} you're on the go"
+  },
+  "back_to_top": "Back to top",
+  "load_more": "Load More"
+}
